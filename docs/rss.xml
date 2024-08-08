@@ -1,2 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yichiban's Go</title><link>https://yichiban1.github.io/yichiban.github.io</link><description>ユリイカ</description><copyright>Yichiban's Go</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/160466378?v=4</url><title>avatar</title><link>https://yichiban1.github.io/yichiban.github.io</link></image><lastBuildDate>Thu, 08 Aug 2024 11:55:37 +0000</lastBuildDate><managingEditor>Yichiban's Go</managingEditor><ttl>60</ttl><webMaster>Yichiban's Go</webMaster><item><title>Test 1</title><link>https://yichiban1.github.io/yichiban.github.io/post/Test%201.html</link><description>Hello World。</description><guid isPermaLink="true">https://yichiban1.github.io/yichiban.github.io/post/Test%201.html</guid><pubDate>Wed, 07 Aug 2024 12:47:42 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yichiban's Go</title><link>https://yichiban1.github.io/yichiban.github.io</link><description>ユリイカ</description><copyright>Yichiban's Go</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/160466378?v=4</url><title>avatar</title><link>https://yichiban1.github.io/yichiban.github.io</link></image><lastBuildDate>Thu, 08 Aug 2024 12:33:23 +0000</lastBuildDate><managingEditor>Yichiban's Go</managingEditor><ttl>60</ttl><webMaster>Yichiban's Go</webMaster><item><title>SCAVERGER HUNT</title><link>https://yichiban1.github.io/yichiban.github.io/post/SCAVERGER%20HUNT.html</link><description>On Monday, Julie, Fiona and I went scavenger hunting in the school with clues and maps. It was not easy becasue there were many things I couldn’t understand, and things I could’t find.
+
+![image](https://github.com/user-attachments/assets/a75b221b-721f-48ba-9ad7-a4a0f83af464)
+
+**** GOLDEN GLOBE ATOP A TOWER OF EIGHTS.
+
+julie found it not me,well i guess she’s much better than me unless at this part.
+
+![image](https://github.com/user-attachments/assets/e871e3c0-aae8-47d2-805c-b2447fa5a2a1)
+
+**** HE DISEMBODIED HANDS OF A GREAT APE.
+
+It was easy to found, Cause I across their team so I found it but why is there a gorilla’s hand in the school ?。</description><guid isPermaLink="true">https://yichiban1.github.io/yichiban.github.io/post/SCAVERGER%20HUNT.html</guid><pubDate>Thu, 08 Aug 2024 12:32:59 +0000</pubDate></item><item><title>Test 1</title><link>https://yichiban1.github.io/yichiban.github.io/post/Test%201.html</link><description>Hello World。</description><guid isPermaLink="true">https://yichiban1.github.io/yichiban.github.io/post/Test%201.html</guid><pubDate>Wed, 07 Aug 2024 12:47:42 +0000</pubDate></item></channel></rss>
