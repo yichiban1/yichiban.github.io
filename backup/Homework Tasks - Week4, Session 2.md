@@ -26,3 +26,8 @@ Foxes🦊are actually quite interesting animals in the game. In my hometown, peo
 ![image](https://github.com/user-attachments/assets/637022f3-8c1c-4910-bff3-77acbc248234)
 
 Swords are always a topic that cannot be avoided in games. I hope to reflect the texture and the feeling of movement. I should choose the first one.
+
+Regarding amulets, this is a very interesting topic🧿. I drew Chinese knots 🪢and Japanese blessing tokens, but the game background takes place in Japan, so wooden tokens should be my choice. I also hope to show the texture.
+
+It is quite interesting to talk about yurts, because my hometown actually includes the eastern part of Inner Mongolia🇲🇳, so I actually have some understanding of yurts. For the Mongolians, a nomadic people, using RVs 🚐as a metaphor is more appropriate from today's perspective. During the most glorious period of the Mongol Empire, yurts could be quickly moved away and rebuilt when they were sent to other places for battle⚔️. So this can be said to be a symbol of the Mongolian people. On the grasslands, soldiers would drink and eat meat in yurts when it was cold. So for a game that tells the story of the Yuan-Japan War, I think yurts🛖 are a very good choice. I think I will choose the one in the middle. It is a building, but it does not have the rigidity of traditional buildings. It is more like a home that flutters slightly in the wind on the grassland🏕️.
+I hope to express the weight and character of Mongolians🍾🏇🕺🏻, which is rough but also makes them look like exquisite handicrafts🧵. If possible, I hope I can draw 🎨some patterns on the final yurt icon.
