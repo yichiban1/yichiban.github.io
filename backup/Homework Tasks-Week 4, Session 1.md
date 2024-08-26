@@ -26,8 +26,9 @@ Implement
 
 ![image](https://github.com/user-attachments/assets/01400989-883b-4184-bace-372f7ede5b93)
 
-![image](https://github.com/user-attachments/assets/99a7201f-a028-4ed6-a742-edb0e9c7feeb)
+![image](https://github.com/user-attachments/assets/5a1a4022-fd4f-4fac-b153-8603e855e0c8)
 
-I have three ideas. One is to make a playstation icon, but the system icon, but I haven't figured out what should appear after clicking the icon. The other is about weather, but there are many people who make weather, and there are many on the Internet, so I think it's hard for me to make a different one.
 
-So I thought about the game icons. As for which game to choose, I wanted to choose a cultural background that I am familiar with. So Ghost of Tsushima should be a good choice. Artistic concept, tranquility, and inner heart can all become icons. So the specific platform I want to design the icon for is PlayStation, the background is video game UI, and the audience is people who like immersive games and less famous but interesting history.
+I originally had three ideas. The PlayStation system icon has simple lines that can tell the user what the icon is used for. I also thought of an icon for the weather app, but there are only a few types of weather, such as sunny, rainy, snowy, cloudy, etc. The other one is a game icon. I actually like this idea very much. I even drew a rough sketch. But recently I tried it and found that it is too difficult for me to challenge the game icon at my current level.
+
+So recently I thought of social networking apps. Actually I think this is not bad. We use it almost every day. Think about the billions of people who use social networking apps in the world. What a huge user group. As for why I chose this theme, system, I think we use these apps every day, but when we are used to using it, we will forget about these icons and just rely on our subconscious to react to them. So I think you must be an excellent designer👨‍🎨to be able to make this feeling. Different functions in the app can become icons, so I want to design icons for it. The specific platform is the mobile phone. The background is some basic functions. The audience on the social networking app I hope is everyone, regardless of gender, age or young, but I hope the icon design is a little more interesting, so it may also be more inclined to a slightly younger group.
