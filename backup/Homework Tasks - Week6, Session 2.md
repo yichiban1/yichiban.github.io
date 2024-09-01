@@ -20,3 +20,5 @@ Summarize:
 I wanted to make specific design decisions every step of the way to ensure the icon set had the best balance between functionality, visuals, and user experience.
 
 （I wanted to add some sense of space and distance to the flat design icon, so I used gradients and transparency to make it look less😆boring and like other icons. In the final stage, I reduced the shadow so I hope🙏it is still within the scope of flat design.）
+
+Thank you for reading my blog, Professor🙏🙏🙏
