@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yichiban's Go</title><link>https://yichiban1.github.io/yichiban.github.io</link><description>ユリイカ</description><copyright>Yichiban's Go</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/160466378?v=4</url><title>avatar</title><link>https://yichiban1.github.io/yichiban.github.io</link></image><lastBuildDate>Sun, 01 Sep 2024 13:11:24 +0000</lastBuildDate><managingEditor>Yichiban's Go</managingEditor><ttl>60</ttl><webMaster>Yichiban's Go</webMaster><item><title>Homework Tasks - Week 6, Session 1</title><link>https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%206%2C%20Session%201.html</link><description>Remember to document your process and design decisions on your blog as you go,
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yichiban's Go</title><link>https://yichiban1.github.io/yichiban.github.io</link><description>ユリイカ</description><copyright>Yichiban's Go</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/160466378?v=4</url><title>avatar</title><link>https://yichiban1.github.io/yichiban.github.io</link></image><lastBuildDate>Sun, 01 Sep 2024 13:40:39 +0000</lastBuildDate><managingEditor>Yichiban's Go</managingEditor><ttl>60</ttl><webMaster>Yichiban's Go</webMaster><item><title>Homework Tasks - Week6, Session 2</title><link>https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week6%2C%20Session%202.html</link><description>Review the homework tasks and blog entries that you have produced so far.
+
+Speaking of the final adjustments, I didn’t actually finish in the last blog post. Mainly because I haven’t reached the final stage yet, so I’ll write a little more now.
+
+In the final stage I make sure the icons can be displayed on the website and do a consistency check on the entire icon set to ensure that all icons are consistent in style, color, line thickness, etc.
+
+_ Design Decisions_
+
+• Functionality first: Consider the functionality of the icon first and ensure that each icon can intuitively express its corresponding function.
+
+• Visual harmony: Use a consistent style and color scheme to ensure that the icon set blends seamlessly with the rest of the system or app.
+
+![image](https://github.com/user-attachments/assets/d5726472-0089-4c61-87ec-8d793c236fe3)
+（still Google hahaha But I think this can be used as an example of icon style unification）
+
+• User experience: Pay attention to the readability of icons on different devices and backgrounds to ensure that users can quickly recognize and use these icons regardless of the usage scenario.
+
+Summarize:
+
+I wanted to make specific design decisions every step of the way to ensure the icon set had the best balance between functionality, visuals, and user experience.
+
+（I wanted to add some sense of space and distance to the flat design icon, so I used gradients and transparency to make it look less😆boring and like other icons. In the final stage, I reduced the shadow so I hope🙏it is still within the scope of flat design.）。</description><guid isPermaLink="true">https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week6%2C%20Session%202.html</guid><pubDate>Sun, 01 Sep 2024 13:40:16 +0000</pubDate></item><item><title>Homework Tasks - Week 6, Session 1</title><link>https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%206%2C%20Session%201.html</link><description>Remember to document your process and design decisions on your blog as you go,
 
 About the design process and design decisions
 
