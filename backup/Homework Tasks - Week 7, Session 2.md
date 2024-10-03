@@ -1,4 +1,4 @@
-For assignment 3, my final choice should be Akira Kurosawa's movie Ran. 
+For assignment 3, my final choice should be Akira Kurosawa's movie Ran. （Akira Kurosawa shot four unique color films）
 
 ![屏幕截图 2024-10-03 220454](https://github.com/user-attachments/assets/34c690ce-5e55-4fd4-a60c-6ac66fe0fca4)
 
