@@ -1,4 +1,4 @@
-**** Answer the self reflection questions ****
+****Answer the self reflection questions****
 
 Assignment 1 - Video Edit
 • How did you approach the relationship between the sonic and visual components of
