@@ -36,13 +36,35 @@ work?
 Assignment 2 - Graphic Icons
 • How would you summarise your idea behind the suite of icons, and why did you choose
 the theme that you did?
+
+• The idea behind this set of icons I made was that I was trying to make an icon for a social application. The theme was system. I gave these icons a basic function and meaning, such as albums and contacts. I think the final effect is not bad. The reason why I chose this theme was actually mainly because of an article I read before about why there is no social application with all functions in Europe and the United States, like Instagram plus PayPal plus Twitter, so I wanted to try to make one.
+
+
 • Did you iterate through a series of approaches before settling on one? What changed
 across those iterations, and why did you choose the one that you ended up with?
+
+• Yes, I have thought about making another theme icon before, similar to the game, but there are many points in it that are difficult for me to present now, and I am not proficient in the software, so I changed another method to draw the icon.
+
+
 • How did you translate your thumbnail sketches into the final flat designs in Illustrator?
 Was anything lost in that translation, or gained?
+
+• I started by looking at some designs by other people and some company proposals, blended them together, and drew sketches based on my own understanding. Then I tried different effects in illustrator and finally turned them into a set of icons without losing too much detail compared to the initial sketches.
+
+
 • How did you use colour to create a sense of unity and visual interest in the icons? Why
 did you choose the palette that you did?
+
+• I used non-obtrusive colors, such as blue and green for functionality, red for prompts, and gray for systems. In addition, I referred to the products of mature commercial companies. Then I considered how to distribute the colors reasonably, and finally they became the colors of my icons.
+
+
 • How did the elements and principles of sound that you used in your audio design
 correspond to the elements and principles of design that you used in your visual design?
+
+• The process is actually quite similar to the video. Sound gives people a feeling. It is a way to provide emotional power and texture. So I hope to add some sounds that are not abrupt to give people a sense of texture and reality. Just like I added the sound of turning pages to the collection function, which is very common but rarely heard. At the same time, I also used some electronic sounds to simulate our daily reminders.
+
+
 • How did you translate the prompt that you chose from an abstract idea to a set of
 concrete visual designs?
+
+• First, I need to thoroughly understand what this abstract idea means. Then I research related topics to find inspiration. This may include looking at similar designs, artwork, colors, shapes, and styles. Then I brainstorm to turn the abstract ideas into specific keywords or concepts. I draw preliminary sketches to turn the ideas into visual forms. At the same time, I think about how to convey emotions and information through these elements. Finally, I use software to create prototypes.
