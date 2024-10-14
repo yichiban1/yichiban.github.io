@@ -68,3 +68,19 @@ correspond to the elements and principles of design that you used in your visual
 concrete visual designs?
 
 • First, I need to thoroughly understand what this abstract idea means. Then I research related topics to find inspiration. This may include looking at similar designs, artwork, colors, shapes, and styles. Then I brainstorm to turn the abstract ideas into specific keywords or concepts. I draw preliminary sketches to turn the ideas into visual forms. At the same time, I think about how to convey emotions and information through these elements. Finally, I use software to create prototypes.
+
+Assignment 3 - Virtual Environment
+• How important was a working prototype to your design process? What did it offer that
+process?
+• How did your experience of designing and producing a three-dimensional environment
+differ from your experience of designing and producing a project in two-dimensional
+media?
+• What was the role of the virtual camera in your project, and how was it similar to and
+different from the role of the camera in Assignment 1?
+• How did you use sound in your project, and how was this similar to and different from your
+use of sound in Assignments 1 and 2?
+• How did you unify the different elements of your virtual environment under a certain theme
+or concept? How did your theme or concept evolve over the project’s development?
+• What did you discover through the process of play testing that you wouldn’t have
+discovered otherwise?
+
