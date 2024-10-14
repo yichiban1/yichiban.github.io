@@ -107,3 +107,26 @@ discovered otherwise?
 • During the game testing process, I found the following 
 game bugs: such as character stuck, sudden game crash, etc. Operational issues: whether the game control is smooth and whether it is easy for players to get started. 
 User experience: whether the game interface is friendly and whether it is easy for players to understand the game rules.
+
+__About the page__
+
+I hope users can connect these feeling words like concise, fluent and easy to understand.
+
+Target audience 
+
+Self: This is the most direct audience. I can use this page to review my learning achievements, activities, challenges and personal growth over the past semester. 
+
+Classmates and friends: Peers may learn about each other's learning and life experiences through the semester summary page. 
+
+Future employers: The semester summary can show students' strengths and abilities, and it may also be helpful for personal statements when looking for a job in the future.
+
+
+I think the audience wants to see these features 
+
+Clear navigation: An intuitive navigation bar can help users quickly find the section they are interested in 
+
+Visual appeal: Pictures, charts and videos to show their own learning and experience can make the webpage more attractive. 
+
+Readability of content: Use appropriate font size, color contrast and paragraph separation to ensure that the content is easy to read. 
+
+Interactivity: Providing some interactive elements, such as clicking to expand detailed information and sliding to view more pictures or videos, can increase user engagement.
