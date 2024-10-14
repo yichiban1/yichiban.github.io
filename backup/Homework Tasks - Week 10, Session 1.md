@@ -108,7 +108,7 @@ discovered otherwise?
 game bugs: such as character stuck, sudden game crash, etc. Operational issues: whether the game control is smooth and whether it is easy for players to get started. 
 User experience: whether the game interface is friendly and whether it is easy for players to understand the game rules.
 
-__About the page__
+__About the webpage__
 
 I hope users can connect these feeling words like concise, fluent and easy to understand.
 
