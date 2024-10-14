@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yichiban's Go</title><link>https://yichiban1.github.io/yichiban.github.io</link><description>ユリイカ</description><copyright>Yichiban's Go</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/160466378?v=4</url><title>avatar</title><link>https://yichiban1.github.io/yichiban.github.io</link></image><lastBuildDate>Mon, 14 Oct 2024 13:04:06 +0000</lastBuildDate><managingEditor>Yichiban's Go</managingEditor><ttl>60</ttl><webMaster>Yichiban's Go</webMaster><item><title>Homework Tasks - Week 11，Session 2</title><link>https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%2011%EF%BC%8CSession%202.html</link><guid isPermaLink="true">https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%2011%EF%BC%8CSession%202.html</guid><pubDate>Mon, 14 Oct 2024 11:53:08 +0000</pubDate></item><item><title>Homework Tasks - Week 10, Session 2</title><link>https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%2010%2C%20Session%202.html</link><guid isPermaLink="true">https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%2010%2C%20Session%202.html</guid><pubDate>Wed, 09 Oct 2024 07:57:01 +0000</pubDate></item><item><title>Homework Tasks - Week 10, Session 1</title><link>https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%2010%2C%20Session%201.html</link><description>Answer the self reflection questions &#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yichiban's Go</title><link>https://yichiban1.github.io/yichiban.github.io</link><description>ユリイカ</description><copyright>Yichiban's Go</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/160466378?v=4</url><title>avatar</title><link>https://yichiban1.github.io/yichiban.github.io</link></image><lastBuildDate>Mon, 14 Oct 2024 13:34:46 +0000</lastBuildDate><managingEditor>Yichiban's Go</managingEditor><ttl>60</ttl><webMaster>Yichiban's Go</webMaster><item><title>Homework Tasks - Week 11，Session 2</title><link>https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%2011%EF%BC%8CSession%202.html</link><guid isPermaLink="true">https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%2011%EF%BC%8CSession%202.html</guid><pubDate>Mon, 14 Oct 2024 11:53:08 +0000</pubDate></item><item><title>Homework Tasks - Week 10, Session 2</title><link>https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%2010%2C%20Session%202.html</link><guid isPermaLink="true">https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%2010%2C%20Session%202.html</guid><pubDate>Wed, 09 Oct 2024 07:57:01 +0000</pubDate></item><item><title>Homework Tasks - Week 10, Session 1</title><link>https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%2010%2C%20Session%201.html</link><description>Answer the self reflection questions &#13;
 &#13;
 Assignment 1 - Video Edit&#13;
 • How did you approach the relationship between the sonic and visual components of&#13;
@@ -72,19 +72,42 @@ concrete visual designs?&#13;
 &#13;
 Assignment 3 - Virtual Environment&#13;
 • How important was a working prototype to your design process? What did it offer that&#13;
-process?&#13;
+process?
+
+• I drew a sketch to provide an idea of ​​the entire 3D environment. The final effect was similar to it. I thought about what kind of path, what kind of guidance, and what kind of subject should be presented. The sketch recorded my responses to these questions.
+
+&#13;
 • How did your experience of designing and producing a three-dimensional environment&#13;
 differ from your experience of designing and producing a project in two-dimensional&#13;
-media?&#13;
+media?
+
+• I think there is a big difference between 3D and 2D objects. When I was working with 2D objects, which were icons, I tended to think like a designer, whereas in 3D we think more like architects, thinking about the spatial boundaries of objects and their placement.
+
+&#13;
 • What was the role of the virtual camera in your project, and how was it similar to and&#13;
-different from the role of the camera in Assignment 1?&#13;
+different from the role of the camera in Assignment 1?
+
+• The camera I chose for my project was actually the third person because the first person perspective was too short and there was no way to get a bird's eye view of the environment. That's why I used the third person perspective. In assignment 1 and assignment 3, the camera's role is to provide the audience with emotions. In assignment 1, it is more about expressing one's own interpretation, while in assignment 3, it is more like simulating the changes brought about by the environment.
+
+&#13;
 • How did you use sound in your project, and how was this similar to and different from your&#13;
-use of sound in Assignments 1 and 2?&#13;
+use of sound in Assignments 1 and 2?
+
+• There are similarities and differences. I still try to give the player a sense of reality, like the sound of running water, but the difference is the feeling of 3D audio. I use strings to bring a changing atmosphere to the environment, and the sound of each door is different, deepening the feeling of change.
+
+&#13;
 • How did you unify the different elements of your virtual environment under a certain theme&#13;
-or concept? How did your theme or concept evolve over the project’s development?&#13;
+or concept? How did your theme or concept evolve over the project’s development?
+
+• In a virtual environment, consistency is an important principle to maintain user navigation and understanding. In the field of design, visual consistency is to maintain a unified pace as a whole, including color, layout, elements, etc. Naturalness is to simulate the real world as much as possible. For example, the presentation of visual elements such as lighting, shadows, and materials, as well as the application of sensory stimulation such as sound and touch, can enhance the user's sense of immersion.
+
+&#13;
 • What did you discover through the process of play testing that you wouldn’t have&#13;
 discovered otherwise?&#13;
-&#13;
+
+• During the game testing process, I found the following 
+game bugs: such as character stuck, sudden game crash, etc. Operational issues: whether the game control is smooth and whether it is easy for players to get started. 
+User experience: whether the game interface is friendly and whether it is easy for players to understand the game rules.&#13;
 。</description><guid isPermaLink="true">https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%2010%2C%20Session%201.html</guid><pubDate>Sat, 05 Oct 2024 11:12:48 +0000</pubDate></item><item><title>Homework Tasks - Week 9, Session 1</title><link>https://yichiban1.github.io/yichiban.github.io/post/Homework%20Tasks%20-%20Week%209%2C%20Session%201.html</link><description>Unfortunately, I was a bit slow and my file was a bit large. Unity Play supports a maximum of 200MB, so I recorded a screencast for my family.
 
 They think the whole process went smoothly without any major problems. Of course, the whole environment is still far from good.
