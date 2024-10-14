@@ -32,3 +32,17 @@ depict in your portrait?
 work?
 
 • Talking about the expression method, this really bothered me for a long time. I thought of many ways, such as expressing it in the third person, using my own shadow to express it, or even putting a paper bag on my head to express it. There are many more haha, but in the end I chose to focus on my own hands because we use our hands to do many things every day, just like typing my hands now, eating, making tea, and everything else. I watched some movies and drew how they depicted the feeling of hands. Unfortunately, because I was the only photographer, the effect was average. But I still like this concept very much. I think it can be used. Hands are a perfect representation of oneself.
+
+Assignment 2 - Graphic Icons
+• How would you summarise your idea behind the suite of icons, and why did you choose
+the theme that you did?
+• Did you iterate through a series of approaches before settling on one? What changed
+across those iterations, and why did you choose the one that you ended up with?
+• How did you translate your thumbnail sketches into the final flat designs in Illustrator?
+Was anything lost in that translation, or gained?
+• How did you use colour to create a sense of unity and visual interest in the icons? Why
+did you choose the palette that you did?
+• How did the elements and principles of sound that you used in your audio design
+correspond to the elements and principles of design that you used in your visual design?
+• How did you translate the prompt that you chose from an abstract idea to a set of
+concrete visual designs?
