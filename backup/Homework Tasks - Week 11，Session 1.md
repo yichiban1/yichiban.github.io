@@ -13,4 +13,12 @@ The light on the canvas in art history began to shine with this work by Rembrand
 
 So my page should more or less fit the name like night sky 🌌telescope stars 💫 and some parallax effects will be what I will learn and use
 
+In my mind, wireframes should include
 
+1. Basic structure: The wireframe shows the basic structure of the page, including the location of elements such as layout, navigation, buttons, and text areas.
+
+2. Low Fidelity: Wireframes are typically low fidelity, but this means that they do not contain colors, images, or detailed design elements, but instead use simple lines and shades of gray to represent different interface elements.
+
+3. Functionality-oriented: The main purpose of a wireframe is to show the layout of functionality and content, rather than visual design. It can help others understand how users interact with the interface and how information is organized and displayed.
+
+So I will try my best to follow the above principles to complete my own wireframe
