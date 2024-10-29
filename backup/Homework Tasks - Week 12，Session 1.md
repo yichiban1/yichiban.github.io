@@ -27,3 +27,5 @@ The first one is the elevator effect, the second one is the domino effect, and t
 I also like the jumping effects.
 
 ![屏幕截图 2024-10-29 235049](https://github.com/user-attachments/assets/46c97214-0e1d-4644-9fec-30327051ec2f)
+
+Shadows, forces, and bouncing motion curves are all important in this effect. I spent a long time debugging the motion curve before finally getting a satisfactory result.
