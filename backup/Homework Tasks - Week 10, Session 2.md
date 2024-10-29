@@ -28,3 +28,19 @@ Unfortunately, my writing is very poor. This may be something I am not good at w
 
 7. Personal Experience:
 • Share my emotional experience of art creation, including satisfaction, frustration, or any other emotions.
+
+__However, there is no fixed format for an artist's statement. For me, it should be sincere and personalized.__
+
+So I don’t want to write an artist statement that is too long and makes people feel irritated and boring. I have been to art galleries many times. If I have to mention a famous artist whose works I have visited, it should be Morandi. Why him? Maybe it’s because my art teacher always mentioned him and talked about “high-grade gray”, so I have a very deep impression of him.
+
+It has to be said that his works really make people feel the meaning of "high-grade gray". At the same time, his characteristics
+
+![image](https://github.com/user-attachments/assets/2b464744-5745-4d5f-a0cf-d66035b3c99a)
+
+The museum's artist statement to Morandi (I only have the Chinese version, sorry😵‍💫)
+
+![image](https://github.com/user-attachments/assets/1854db7b-a141-4411-9ad2-7ab4b6b0097c)
+
+I have been searching for his work in my photo album for a long time. This was taken three and a half years ago. I think it is quite good.
+
+Actually, this is an example. Morandi is a master. Although I am a student, there are 8 billion people in the world. Everyone has their own ideas and different points. So I think we can also write our own unique artist statement by learning and summarizing.
