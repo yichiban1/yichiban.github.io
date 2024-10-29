@@ -25,3 +25,5 @@ At the same time, I gave each work a name. These titles are also important to th
 The first one is the elevator effect, the second one is the domino effect, and the third one is the masked effect.
 
 I also like the jumping effects.
+
+![屏幕截图 2024-10-29 235049](https://github.com/user-attachments/assets/46c97214-0e1d-4644-9fec-30327051ec2f)
