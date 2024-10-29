@@ -53,3 +53,7 @@ The above is all theory. How to use grid-based layout to improve web design
 • Hierarchy: Use the grid to create a visual hierarchy and direct the user's attention to the most important elements. 
 
 • Flexibility: While modular and formulaic, you can also break the grid rules. Sometimes, some creative adjustments are needed for the overall effect of the design.
+
+![屏幕截图 2024-10-29 232509](https://github.com/user-attachments/assets/7bd58fb3-221d-4b83-a5f2-aabeb76703f7)
+
+Based on the above principles, my final webpage version is like this
