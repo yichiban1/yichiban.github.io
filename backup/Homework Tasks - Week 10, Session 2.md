@@ -44,3 +44,4 @@ The museum's artist statement to Morandi (I only have the Chinese version, sorry
 I have been searching for his work in my photo album for a long time. This was taken three and a half years ago. I think it is quite good.
 
 Actually, this is an example. Morandi is a master. Although I am a student, there are 8 billion people in the world. Everyone has their own ideas and different points. So I think we can also write our own unique artist statement by learning and summarizing.
+![屏幕截图 2024-10-29 220441](https://github.com/user-attachments/assets/4b5777ed-9aeb-42dc-9207-60e883df573c)
