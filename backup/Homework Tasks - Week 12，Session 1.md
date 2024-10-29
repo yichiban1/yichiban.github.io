@@ -18,3 +18,6 @@ First, make a normal island and cat's paw and put them in one frame. In the firs
 
 Finally, add a rectangle to connect the main body, add triggers such as hover, and finally hide the rectangle fill. Set the delay in the prototype. The important point is that the delay time of each frame needs to be different to show a stronger sense of movement. Finally, connect the last frame back to the first frame to form a closed loop.
 
+![屏幕截图 2024-10-29 234544](https://github.com/user-attachments/assets/09e6ff6c-232a-4e73-894c-240110ee16a5)
+
+
