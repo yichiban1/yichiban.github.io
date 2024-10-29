@@ -23,3 +23,5 @@ Finally, add a rectangle to connect the main body, add triggers such as hover, a
 At the same time, I gave each work a name. These titles are also important to the viewers and the audience, so I added different effects to these three titles.
 
 The first one is the elevator effect, the second one is the domino effect, and the third one is the masked effect.
+
+I also like the jumping effects.
