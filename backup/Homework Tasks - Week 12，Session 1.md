@@ -20,4 +20,6 @@ Finally, add a rectangle to connect the main body, add triggers such as hover, a
 
 ![屏幕截图 2024-10-29 234544](https://github.com/user-attachments/assets/09e6ff6c-232a-4e73-894c-240110ee16a5)
 
+At the same time, I gave each work a name. These titles are also important to the viewers and the audience, so I added different effects to these three titles.
 
+The first one is the elevator effect, the second one is the domino effect, and the third one is the masked effect.
