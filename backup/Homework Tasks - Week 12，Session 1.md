@@ -29,3 +29,13 @@ I also like the jumping effects.
 ![屏幕截图 2024-10-29 235049](https://github.com/user-attachments/assets/46c97214-0e1d-4644-9fec-30327051ec2f)
 
 Shadows, forces, and bouncing motion curves are all important in this effect. I spent a long time debugging the motion curve before finally getting a satisfactory result.
+
+Let me talk about something else, like the method I use in web page layout
+
+🤔I searched the Internet for the aesthetics of typography, such as the spacing between fonts. This is actually very important. It is related to the comfort of users and viewers. Even if the spacing is properly controlled, the design of the web page will be greatly improved. For example, most websites follow the multiples of even numbers (such as 4 and 8) as the setting. At the same time, the top and bottom content of the web page must not be too close, otherwise it will give people a feeling of being too crowded.
+
+🧐At the same time, the balance between the content and the text of the website is also extremely important. What is the proportion of the two that I want to present? 50% and 50%? Or 30% and 70%? This is a very interesting question, so I thought of many options, but finally chose the classic but not old-fashioned "line". The inspiration comes from the website of Hideo Kojima Studio, but I also changed some things and finally became my own version. When writing here, I suddenly thought of a paragraph in a literary work called "Rope", which is also quoted in Death Stranding.
+
+"Ropes and sticks are the earliest tools invented by humans. Ropes can keep beauty, and sticks can drive away danger. Both are our earliest friends, and both were created by us. Wherever there are people, there are ropes and sticks."
+
+Similarly, using lines to separate content and text can enhance the sense of design and interest, just like mirrors and glass, so I personally like this point very much, hahahaha
